@@ -32,8 +32,8 @@ A simple command-line-based Personal Finance Manager built with Python and SQLit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/finance-manager.git
-   cd finance-manager
+   git clone https://github.com/Ananya9870/FinanceManagementSys.git
+   cd FinanceManagementSys
 
 
 📋 Usage
